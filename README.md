@@ -1,199 +1,561 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mayara Celestino — Software Developer">
-</p>
+<!-- =========================================================
+     MAYARA CELESTINO / GITHUB PROFILE
+     Dev Magazine / Portfolio Board
+========================================================= -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayaracelestino">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/maycelestino">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/maycelestino/arenapass">ArenaPass</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/maycelestino/fittrack-devops">FitTrack</a>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:07111f,45:0f3d46,100:352b63&text=MAYARA%20CELESTINO&fontColor=f7f7f7&fontSize=46&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PYTHON%20%2F%20DJANGO%20%E2%80%A2%20FULL%20STACK&descAlignY=63&descSize=15&animation=fadeIn"
+    alt="Mayara Celestino"
+  />
 </p>
-
-<br>
-
-01 / about
 
 <table>
 <tr>
+<td>
+
+<sub><b>PORTFOLIO / ISSUE 2026</b></sub>
+
+</td>
+<td align="center">
+
+<sub><b>CURITIBA — BR</b></sub>
+
+</td>
+<td align="right">
+
+<sub><b>CURRENT / CAVOK TECNOLOGIA</b></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
 <td width="58%" valign="top">
 
-Sou desenvolvedora de sistemas e estudante de Análise e Desenvolvimento de Sistemas na PUC-PR.
+### SOFTWARE THAT MAKES SENSE OUTSIDE THE EDITOR.
 
-Hoje atuo no desenvolvimento e manutenção de sistemas web, trabalhando principalmente com Python, Django e PostgreSQL, além de front-end, integrações e evolução de funcionalidades.
+Sou **Mayara Celestino**, desenvolvedora de sistemas e estudante de Análise e Desenvolvimento de Sistemas.
 
-Gosto especialmente de pegar uma regra de negócio, entender onde está o problema e transformar isso em uma solução que realmente funcione no uso diário.
+Hoje trabalho principalmente com **Python, Django e PostgreSQL**, desenvolvendo e evoluindo sistemas web, integrações, relatórios e funcionalidades utilizadas no dia a dia.
 
-Minha trajetória em tecnologia também passou por backend, frontend, automação e web scraping — e boa parte do que estudo acaba virando projeto prático por aqui.
+O que mais gosto no desenvolvimento não é simplesmente fazer uma tela ou escrever uma função: é entender uma regra de negócio, descobrir onde está o problema e transformar isso em algo que realmente funcione para quem usa o sistema.
+
+Grande parte do que estudo acaba virando código, projeto ou experimento por aqui.
+
+<br>
+
+`BACKEND` &nbsp; `FULL STACK` &nbsp; `APIs` &nbsp; `DEVOPS`
 
 </td>
+
 <td width="42%" valign="top">
 
+```yaml
 current:
-  company: CAVOK Tecnologia
   role: Junior Developer
+  company: CAVOK Tecnologia
 
-focus:
-  - Backend
-  - Full Stack
-  - APIs
-  - DevOps
+main_stack:
+  - Python
+  - Django
+  - PostgreSQL
 
-study:
+academic:
   course: ADS
   university: PUC-PR
-  status: in progress
+
+status:
+  building: true
+  learning: always
+```
 
 </td>
+
 </tr>
 </table>
 
-02 / toolkit
+<br>
+
+---
 
 <p align="center">
-  <img src="./assets/stack.svg" width="92%" alt="Mayara's technology stack">
+  <sub>01 / WORK DESK</sub>
 </p>
 
-03 / selected work
+<h2 align="center">the tools behind the work</h2>
 
-ArenaPass
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-<img src="https://raw.githubusercontent.com/maycelestino/arenapass/main/image.png" width="100%" alt="ArenaPass interface">
-
-</td>
-<td width="44%" valign="top">
-
-Full Stack user management platform
-
-FastAPI React JWT RBAC SQLAlchemy bcrypt
-
-Projeto criado para aplicar, na prática, conceitos de API REST, autenticação, autorização e segurança.
-
-Highlights
-
-autenticação com JWT;
-
-controle de acesso por perfil;
-
-Administrador, Operador e Cliente;
-
-CRUD de usuários;
-
-dashboard React integrado à API;
-
-hash seguro de senhas.
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,js,react,html,css,bootstrap,jquery,java,git,github,githubactions,docker,vscode&perline=9"
+    alt="Tech Stack"
+  />
+</p>
 
 <br>
 
-Open repository →
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+#### BACKEND
+
+`Python`  
+`Django`  
+`FastAPI`  
+`Java`  
+`REST APIs`
 
 </td>
+
+<td width="33%" valign="top">
+
+#### FRONTEND
+
+`JavaScript`  
+`React`  
+`HTML`  
+`CSS`  
+`jQuery`  
+`Bootstrap`
+
+</td>
+
+<td width="33%" valign="top">
+
+#### DATA / OPS
+
+`PostgreSQL`  
+`SQLite`  
+`Git`  
+`GitHub Actions`  
+`Docker`  
+`CI/CD`
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-FitTrack DevOps
+---
+
+<p align="center">
+  <sub>02 / FEATURED CASE FILE</sub>
+</p>
+
+# ArenaPass
 
 <table>
 <tr>
-<td width="46%" valign="top">
 
-API + DevOps workflow
+<td width="57%" valign="top">
 
-FastAPI Pytest GitHub Actions Docker CI/CD
+<img
+  src="https://raw.githubusercontent.com/maycelestino/arenapass/main/image.png"
+  width="100%"
+  alt="ArenaPass"
+/>
 
-Projeto desenvolvido para praticar um fluxo completo de desenvolvimento, testes, integração e entrega.
+</td>
 
-A aplicação inclui testes automatizados, pipelines no GitHub Actions, Docker e alertas via Discord.
+<td width="43%" valign="top">
+
+### ACCESS / USERS / SECURITY
+
+Sistema Full Stack para gerenciamento seguro de usuários e diferentes níveis de acesso.
+
+`FASTAPI` `REACT` `JWT`  
+`RBAC` `SQLALCHEMY` `BCRYPT`
+
+O projeto trabalha autenticação e autorização de verdade no backend.
+
+**3 access levels**
+
+```text
+ADMIN
+  └── full management
+
+OPERATOR
+  └── view + edit
+
+CLIENT
+  └── own profile
+```
+
+Autenticação JWT, hash de senha, CRUD de usuários e uma interface que muda conforme o perfil autenticado.
 
 <br>
 
-Open repository →
+### [OPEN PROJECT →](https://github.com/maycelestino/arenapass)
 
 </td>
-<td width="54%" valign="top">
 
-<img src="./assets/fittrack-card.svg" width="100%" alt="FitTrack DevOps pipeline">
-
-</td>
 </tr>
 </table>
 
 <br>
 
-MADC Comunicação Visual
+> **CASE NOTE**
+>
+> O ArenaPass nasceu como projeto acadêmico, mas foi construído pensando além da entrega da faculdade: organização de API, segurança, separação entre frontend e backend e regras diferentes de autorização.
 
-Website institucional desenvolvido para uma empresa real, com foco em responsividade, clareza e navegação simples.
+<br>
 
-HTML CSS JavaScript
+---
 
-Visit website →
+<p align="center">
+  <sub>03 / SYSTEM PIPELINE</sub>
+</p>
 
-04 / experience
+# FitTrack DevOps
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-2026 — now
+<td width="42%" valign="top">
 
-CAVOK Tecnologia
-Desenvolvedora de Sistemas Júnior I
+### FROM CODE TO FEEDBACK
 
-Python Django PostgreSQL
+Uma API que virou laboratório para colocar DevOps em prática.
 
-Desenvolvimento e manutenção de sistemas, novas funcionalidades, relatórios personalizados, integrações e correções.
+`FASTAPI` `PYTEST`  
+`GITHUB ACTIONS` `DOCKER`  
+`CI/CD` `DISCORD`
 
-</td>
-<td width="33%" valign="top">
+O projeto evoluiu em etapas, passando por testes, automação e containerização.
 
-2025 — 2026
+<br>
 
-Homma Capital
-Estagiária em Análise e Desenvolvimento de Software
-
-Backend Frontend Web Scraping
-
-Participação em desenvolvimento, automações, web scraping e documentação técnica.
+### [OPEN PROJECT →](https://github.com/maycelestino/fittrack-devops)
 
 </td>
-<td width="33%" valign="top">
 
-2020 — 2023
+<td width="58%" valign="top">
 
-Teleperformance
-Reclame Aqui / Mídias Sociais
+```text
+           FITTRACK / DELIVERY FLOW
 
-KPIs Customer Experience
 
-Experiência que fortaleceu minha visão de usuário, comunicação e resolução de problemas.
+          ┌──────────────┐
+          │     CODE     │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │    PYTEST    │
+          └──────┬───────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │  GITHUB ACTIONS  │
+        │                  │
+        │   CI        CD   │
+        └────────┬─────────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │    DOCKER    │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │   DISCORD    │
+          │    ALERT     │
+          └──────────────┘
+```
 
 </td>
+
 </tr>
 </table>
 
-05 / beyond the daily stack
+<br>
 
-Além da rotina profissional, venho explorando projetos com React, FastAPI, Java, APIs REST, Docker, CI/CD, segurança de aplicações, automação e ESP32.
+---
 
-currently exploring
-├── backend architecture
-├── application security
-├── full stack development
-├── automation
-└── cloud fundamentals
+<p align="center">
+  <sub>04 / CLIENT WORK</sub>
+</p>
 
-06 / contact
+<table>
+<tr>
 
-LinkedIn · GitHub
+<td width="65%" valign="top">
 
+# MADC
+
+### Comunicação Visual
+
+Website institucional desenvolvido para uma empresa real.
+
+O objetivo foi criar uma presença digital simples, responsiva e fácil de navegar, desenvolvida com tecnologias web fundamentais.
+
+`HTML` `CSS` `JAVASCRIPT`
+
+Além do desenvolvimento, o projeto também passou por publicação e configuração para uso real.
+
+</td>
+
+<td width="35%" valign="middle" align="center">
+
+### LIVE PROJECT
+
+[**madcdigital.com.br →**](https://madcdigital.com.br)
+
+<br>
+
+```text
+STATUS
+● ONLINE
+
+TYPE
+Institutional Website
+
+DELIVERY
+Production
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>05 / CAREER ARCHIVE</sub>
+</p>
+
+# from people to systems
+
+<table>
+
+<tr>
+
+<td width="20%" valign="top">
+
+### 2026
+`NOW`
+
+</td>
+
+<td width="80%" valign="top">
+
+### CAVOK TECNOLOGIA
+
+**Desenvolvedora de Sistemas Júnior I**
+
+Python · Django · PostgreSQL · HTML · CSS · JavaScript · jQuery · Bootstrap
+
+Desenvolvimento e manutenção de sistemas, criação de funcionalidades, relatórios personalizados, integrações externas e evolução de recursos existentes.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="20%" valign="top">
+
+### 2025
+`2026`
+
+</td>
+
+<td width="80%" valign="top">
+
+### HOMMA CAPITAL
+
+**Estagiária em Análise e Desenvolvimento de Software**
+
+Backend · Frontend · Web Scraping · Automação
+
+Participação em desenvolvimento de software, automações, web scraping, documentação técnica e organização de código.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="20%" valign="top">
+
+### 2020
+`2023`
+
+</td>
+
+<td width="80%" valign="top">
+
+### TELEPERFORMANCE
+
+**Reclame Aqui / Mídias Sociais**
+
+Customer Experience · KPIs · Reputação Digital
+
+Antes de trabalhar diretamente com código, trabalhei bastante com pessoas, problemas e experiência do usuário.
+
+Essa parte da minha trajetória continua influenciando a forma como penso software hoje.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>06 / THE LAB</sub>
+</p>
+
+<h2 align="center">things I have been building along the way</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### SOFTWARE
+
+```text
+├── Python systems
+├── REST APIs
+├── FastAPI
+├── Django
+├── React applications
+├── Java / OOP
+└── responsive websites
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### ENGINEERING / EXPERIMENTS
+
+```text
+├── Web scraping
+├── Automation
+├── CI/CD
+├── Docker
+├── Application security
+├── ESP32
+└── sensors / electronics
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>07 / SIGNAL</sub>
+</p>
+
+<h2 align="center">recent GitHub activity</h2>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maycelestino&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Mayara%20%2F%20Activity%20Signal"
+    alt="Mayara GitHub Activity"
+  />
+</p>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<sub>ACADEMIC ROUTE</sub>
+
+### Análise e Desenvolvimento de Sistemas
+
+**PUC-PR**
+
+```text
+2024 ━━━━━━━━━━━━━━━━ 2026
+                      ▲
+                  in progress
+```
+
+Também tenho formação técnica em **Eletrônica**, uma área que fez parte da minha trajetória antes da transição para desenvolvimento de software.
+
+</td>
+
+<td width="50%" valign="top">
+
+<sub>CURRENTLY EXPLORING</sub>
+
+### next checkpoints
+
+```text
+01  backend architecture
+02  application security
+03  full stack development
+04  automation
+05  cloud fundamentals
+```
+
+Sem barra de porcentagem e sem inventar nível.
+
+Só coisas que fazem parte da rota.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>08 / CONTACT CHANNEL</sub>
+</p>
+
+<h2 align="center">find me somewhere else</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mayaracelestino">
+  <img src="https://img.shields.io/badge/LINKEDIN-0f3d46?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+</a>
+
+<a href="https://github.com/maycelestino">
+  <img src="https://img.shields.io/badge/GITHUB-352b63?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+</p>
+
+<br>
+
+---
+
+```text
 maycelestino@github:~$ git status
 
 On branch career
@@ -205,3 +567,18 @@ Changes not staged for stopping:
     modified: projects
 
 nothing to stop, keep building.
+```
+
+<p align="center">
+  <sub>
+    MAYARA CELESTINO / SOFTWARE DEVELOPMENT / CURITIBA — BR
+  </sub>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:352b63,50:0f3d46,100:07111f&section=footer"
+    alt=""
+  />
+</p>
