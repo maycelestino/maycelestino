@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/hero-v3.svg"
+    src="./assets/hero.svg"
     width="100%"
     alt="Mayara Celestino — Software Developer"
   />
