@@ -1,71 +1,98 @@
-<p align="center">
-  <img src="./assets/header.gif" width="100%" alt="Mayara Celestino - Developer Flight Deck"/>
-</p>
-
-<br>
-
-## ✈ Flight Plan
-
-Sou **Mayara Celestino**, Desenvolvedora Júnior e estudante de **Análise e Desenvolvimento de Sistemas**.
-
-Atualmente faço parte da **CAVOK Tecnologia**, trabalhando com desenvolvimento e evolução de sistemas enquanto continuo aprofundando meus conhecimentos em back-end, front-end, APIs, bancos de dados e DevOps.
-
-Gosto principalmente de transformar regras de negócio em soluções que façam sentido no uso real do código à interface.
+# Mayara Celestino
 
 ```text
-CURRENT POSITION   Junior Developer
-COMPANY            CAVOK Tecnologia
-FIELD              Software Development
-ACADEMIC ROUTE     Análise e Desenvolvimento de Sistemas
-CURRENT FOCUS      Full Stack • APIs • DevOps
-STATUS             Building • Learning • Shipping
+╭──────────────────────────────────────────────────────────────╮
+│  MAYARA CELESTINO                                           │
+│  Software Developer                                         │
+│                                                              │
+│  current_position  → Junior Developer @ CAVOK Tecnologia    │
+│  base              → Curitiba, PR                            │
+│  academic_route    → Análise e Desenvolvimento de Sistemas   │
+│  current_focus     → Backend • Full Stack • APIs • DevOps   │
+│  status            → building / learning / improving         │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+## `whoami`
+
+Sou desenvolvedora de sistemas e estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**.
+
+Hoje atuo principalmente com desenvolvimento e manutenção de sistemas web, trabalhando com **Python, Django e PostgreSQL**, além de tecnologias de front-end e integrações.
+
+Minha trajetória em tecnologia também passou por projetos de backend, frontend, automação e web scraping. Gosto especialmente de entender uma regra de negócio, descobrir onde está o problema e transformar isso em uma solução que realmente funcione no dia a dia.
+
+Não tenho interesse em conhecer tecnologia apenas pela teoria. Grande parte do que estudo acaba virando projeto, teste ou alguma implementação prática por aqui.
+
+---
+
+## `current_environment`
+
+```yaml
+company: CAVOK Tecnologia
+role: Desenvolvedora de Sistemas Júnior I
+
+daily_stack:
+  backend:
+    - Python
+    - Django
+
+  database:
+    - PostgreSQL
+
+  frontend:
+    - HTML
+    - CSS
+    - JavaScript
+    - jQuery
+    - Bootstrap
+
+work:
+  - desenvolvimento e manutenção de sistemas
+  - criação de funcionalidades
+  - relatórios personalizados
+  - integrações externas
+  - correções e evolução de sistemas existentes
 ```
 
 ---
 
-## ◈ On-board Systems
+## `stack`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### BACK-END
+### Backend
 
-```text
-Python
-Django
-FastAPI
-Java
-REST APIs
-```
+`Python`  
+`Django`  
+`FastAPI`  
+`Java`
 
 </td>
-
 <td width="33%" valign="top">
 
-### FRONT-END
+### Frontend
 
-```text
-JavaScript
-React
-HTML
-CSS
-```
+`JavaScript`  
+`React`  
+`HTML`  
+`CSS`  
+`jQuery`  
+`Bootstrap`
 
 </td>
-
 <td width="33%" valign="top">
 
-### DATA & OPS
+### Data & DevOps
 
-```text
-PostgreSQL
-SQLite
-Git
-GitHub Actions
-Docker
-CI/CD
-```
+`PostgreSQL`  
+`SQLite`  
+`SQL`  
+`Git`  
+`GitHub Actions`  
+`Docker`  
+`CI/CD`
 
 </td>
 </tr>
@@ -73,117 +100,200 @@ CI/CD
 
 ---
 
-## ◉ Mission Log
+# `selected_projects`
 
-### 🔐 ArenaPass
+## ArenaPass
 
-**Sistema Full Stack para gerenciamento seguro de usuários.**
+**Sistema full stack para gerenciamento seguro de usuários.**
 
-Aplicação criada para explorar segurança em APIs e diferentes níveis de autorização.
-
-```text
-STACK
-FastAPI • React • SQLAlchemy • SQLite
-JWT • RBAC • bcrypt • Pydantic
-```
-
-**Sistemas implementados**
-
-- API REST para gerenciamento de usuários
-- Autenticação utilizando JWT
-- Controle de acesso baseado em perfis
-- Perfis Administrador, Operador e Cliente
-- Hash de senhas com bcrypt
-- Dashboard React integrado ao back-end
-
-> Status: `MISSION COMPLETE`
-
----
-
-### ⚙ FitTrack DevOps
-
-**API desenvolvida para aplicação prática de conceitos de DevOps.**
-
-O projeto percorreu diferentes etapas de um fluxo de desenvolvimento e entrega.
+Projeto criado para aplicar na prática conceitos de APIs REST e segurança de aplicações web.
 
 ```text
-STACK
-FastAPI • Pytest • GitHub Actions
-Docker • CI/CD • Discord Webhooks
+FastAPI + React
+      │
+      ├── REST API
+      ├── JWT Authentication
+      ├── RBAC
+      ├── bcrypt
+      ├── SQLAlchemy
+      └── SQLite
 ```
 
-**Sistemas implementados**
+Principais funcionalidades:
 
-- Testes automatizados
-- Pipeline de Continuous Integration
-- Continuous Delivery
-- Dockerização da aplicação
-- Execução dos testes em Pull Requests
-- Alertas automáticos via Discord
+- cadastro, consulta, edição e exclusão de usuários;
+- autenticação utilizando JWT;
+- senhas armazenadas com hash;
+- controle de acesso baseado em perfis;
+- perfis Administrador, Operador e Cliente;
+- dashboard React integrado à API;
+- proteção dos endpoints no backend;
+- documentação de OAuth 2.0 e análise de segurança.
 
-> Status: `MISSION COMPLETE`
+[Ver projeto →](https://github.com/maycelestino/arenapass)
 
 ---
 
-## ◇ Development Route
+## FitTrack DevOps
+
+**API desenvolvida durante uma jornada prática de DevOps.**
+
+O projeto começou como uma API simples em FastAPI e foi evoluindo durante diferentes etapas de integração e entrega.
 
 ```text
-                    SOFTWARE DEVELOPMENT
+CODE
+  │
+  ▼
+TESTS
+  │
+  ▼
+GITHUB ACTIONS
+  │
+  ├── Continuous Integration
+  ├── Continuous Delivery
+  │
+  ▼
+DOCKER
+  │
+  ▼
+ALERTS
+```
 
-                           ▲
-                           │
-                ┌──────────┴──────────┐
-                │                     │
-             BACK-END              FRONT-END
-                │                     │
-        Python • Django          React • JS
-        FastAPI • APIs           HTML • CSS
-                │                     │
-                └──────────┬──────────┘
-                           │
-                         DATA
-                  PostgreSQL • SQLite
-                           │
-                           ▼
-                        DEVOPS
-                Git • Docker • CI/CD
+O projeto inclui:
+
+- API REST com FastAPI;
+- testes automatizados com Pytest;
+- GitHub Actions;
+- Continuous Integration;
+- Continuous Delivery;
+- execução automática dos testes em Pull Requests;
+- Docker;
+- aplicação executada em container;
+- alertas automáticos enviados para Discord.
+
+[Ver projeto →](https://github.com/maycelestino/fittrack-devops)
+
+---
+
+## MADC Comunicação Visual
+
+**Website institucional desenvolvido para uma empresa real.**
+
+Projeto desenvolvido com foco em uma solução simples e funcional, utilizando:
+
+`HTML` • `CSS` • `JavaScript`
+
+O trabalho envolveu construção da interface, responsividade e publicação do site.
+
+[Visitar site →](https://madcdigital.com.br)
+
+---
+
+# `experience.log`
+
+```text
+2026 ─────► CAVOK TECNOLOGIA
+            Desenvolvedora de Sistemas Júnior I
+            Python • Django • PostgreSQL • Web
+
+2025 ─────► HOMMA CAPITAL
+            Estagiária em Análise e Desenvolvimento de Software
+            Backend • Frontend • Web Scraping • Automação
+
+2020 ─────► TELEPERFORMANCE
+            Reclame Aqui / Mídias Sociais
+            Atendimento • KPIs • Reputação Digital
+```
+
+Minha experiência anterior fora do desenvolvimento também acabou contribuindo para algo que valorizo bastante hoje: entender o problema pelo ponto de vista de quem realmente usa o sistema.
+
+---
+
+# `academic_route`
+
+```text
+PUC-PR
+Análise e Desenvolvimento de Sistemas
+2024 ─────────────────────────────── 2026
+                                  ▲
+                              in progress
+```
+
+Também possuo formação técnica em **Eletrônica**, experiência que veio antes da transição definitiva para desenvolvimento de software.
+
+---
+
+# `currently_building`
+
+Alguns temas que fazem parte da minha evolução atual:
+
+```text
+[■] Backend com Python
+[■] Django
+[■] APIs REST
+[■] React
+[■] PostgreSQL
+[■] Git / GitHub
+[■] Docker
+[■] CI/CD
+[■] Segurança de aplicações
+[□] Arquitetura de software
+[□] Cloud
+```
+
+Os itens em aberto não significam “não sei”; são áreas que quero aprofundar cada vez mais.
+
+---
+
+# `background_processes`
+
+Além dos projetos principais, já desenvolvi trabalhos envolvendo:
+
+- sistemas acadêmicos em Python;
+- aplicações Java com Programação Orientada a Objetos;
+- aplicações React;
+- APIs com FastAPI;
+- websites responsivos;
+- automações;
+- web scraping;
+- integração com APIs;
+- projetos com ESP32 e sensores.
+
+---
+
+# `communication`
+
+```text
+Português   ██████████  Nativo
+Espanhol    ███████░░░  Intermediário
+Inglês      ████░░░░░░  Em desenvolvimento
 ```
 
 ---
 
-## ⌁ Currently Exploring
+# `contact`
 
-Estou continuamente aprofundando conhecimentos em:
+**LinkedIn**  
+[linkedin.com/in/mayaracelestino](https://linkedin.com/in/mayaracelestino)
 
-- arquitetura e desenvolvimento de APIs;
-- desenvolvimento Full Stack;
-- segurança de aplicações web;
-- automação e pipelines CI/CD;
-- containers com Docker;
-- boas práticas de desenvolvimento e versionamento.
+**GitHub**  
+[github.com/maycelestino](https://github.com/maycelestino)
 
 ---
 
-## 📡 Radio Contact
+```text
+maycelestino@github
+──────────────────────────────────────────────────────
 
-<p align="left">
-  <a href="COLOQUE_AQUI_SEU_LINK_DO_LINKEDIN">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:COLOQUE_AQUI_SEU_EMAIL">
-    E-mail
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/maycelestino">
-    GitHub
-  </a>
-</p>
+$ git status
 
----
+On branch career
+Your branch is up to date with 'origin/learning'.
 
-<p align="center">
-  <sub>
-    MAYARA CELESTINO // DEVELOPER FLIGHT DECK // SYSTEM ONLINE
-  </sub>
-</p>
+Changes not staged for stopping:
+    modified:   skills
+    modified:   experience
+    modified:   projects
+
+nothing to stop, keep building.
+```
