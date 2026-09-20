@@ -1,33 +1,95 @@
-<!-- =========================================================
-     MAYARA CELESTINO / GITHUB PROFILE
-     Dev Magazine / Portfolio Board
-========================================================= -->
-
 <p align="center">
   <img
+    src="./assets/hero-v3.svg"
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:07111f,45:0f3d46,100:352b63&text=MAYARA%20CELESTINO&fontColor=f7f7f7&fontSize=46&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PYTHON%20%2F%20DJANGO%20%E2%80%A2%20FULL%20STACK&descAlignY=63&descSize=15&animation=fadeIn"
-    alt="Mayara Celestino"
+    alt="Mayara Celestino — Software Developer"
   />
 </p>
 
+<br>
+
 <table>
 <tr>
-<td>
 
-<sub><b>PORTFOLIO / ISSUE 2026</b></sub>
+<td width="32%" align="center" valign="top">
+
+<img
+  src="https://github.com/maycelestino.png?size=220"
+  width="170"
+  alt="Mayara Celestino"
+/>
+
+### MAYARA CELESTINO
+
+<sub>SOFTWARE DEVELOPER</sub>
+
+<br><br>
+
+`CURITIBA / BR`
+
+<br>
+
+**CAVOK Tecnologia**  
+Junior Developer
+
+<br>
+
+**PUC-PR**  
+Análise e Desenvolvimento de Sistemas
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/mayaracelestino)
+&nbsp;·&nbsp;
+[GitHub](https://github.com/maycelestino)
+
+<br><br>
+
+<sub>
+PYTHON · DJANGO · FULL STACK
+</sub>
 
 </td>
-<td align="center">
 
-<sub><b>CURITIBA — BR</b></sub>
+<td width="68%" valign="top">
+
+<sub>01 / PROFILE</sub>
+
+# Who is Mayara?
+
+Sou desenvolvedora de sistemas com foco em aplicações web, APIs e soluções que precisam funcionar fora do editor.
+
+Atualmente trabalho na **CAVOK Tecnologia**, atuando com desenvolvimento e manutenção de sistemas utilizando principalmente **Python, Django e PostgreSQL**, além de front-end, integrações, relatórios e evolução de funcionalidades.
+
+O que mais gosto no desenvolvimento é a parte de entender o contexto por trás de uma demanda. Não apenas *“o que precisa ser programado?”*, mas **“qual problema estamos tentando resolver?”**.
+
+Minha trajetória também passou por automação, web scraping, desenvolvimento frontend e experiência com atendimento e usuários — algo que hoje influencia bastante a forma como penso sistemas.
+
+<br>
+
+### CURRENT SNAPSHOT
+
+```yaml
+role: Junior Developer
+
+main:
+  - Python
+  - Django
+  - PostgreSQL
+
+interests:
+  - APIs
+  - Full Stack
+  - DevOps
+  - Security
+
+currently:
+  studying: ADS @ PUC-PR
+  building: practical projects
+```
 
 </td>
-<td align="right">
 
-<sub><b>CURRENT / CAVOK TECNOLOGIA</b></sub>
-
-</td>
 </tr>
 </table>
 
@@ -36,44 +98,33 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="33%" align="center">
 
-### SOFTWARE THAT MAKES SENSE OUTSIDE THE EDITOR.
+<sub>CURRENT</sub>
 
-Sou **Mayara Celestino**, desenvolvedora de sistemas e estudante de Análise e Desenvolvimento de Sistemas.
+### CAVOK
 
-Hoje trabalho principalmente com **Python, Django e PostgreSQL**, desenvolvendo e evoluindo sistemas web, integrações, relatórios e funcionalidades utilizadas no dia a dia.
-
-O que mais gosto no desenvolvimento não é simplesmente fazer uma tela ou escrever uma função: é entender uma regra de negócio, descobrir onde está o problema e transformar isso em algo que realmente funcione para quem usa o sistema.
-
-Grande parte do que estudo acaba virando código, projeto ou experimento por aqui.
-
-<br>
-
-`BACKEND` &nbsp; `FULL STACK` &nbsp; `APIs` &nbsp; `DEVOPS`
+Software Development
 
 </td>
 
-<td width="42%" valign="top">
+<td width="33%" align="center">
 
-```yaml
-current:
-  role: Junior Developer
-  company: CAVOK Tecnologia
+<sub>ACADEMIC</sub>
 
-main_stack:
-  - Python
-  - Django
-  - PostgreSQL
+### PUC-PR
 
-academic:
-  course: ADS
-  university: PUC-PR
+ADS · 2024—2026
 
-status:
-  building: true
-  learning: always
-```
+</td>
+
+<td width="33%" align="center">
+
+<sub>DIRECTION</sub>
+
+### BUILD
+
+Backend → Full Stack
 
 </td>
 
