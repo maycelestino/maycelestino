@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Mayara Celestino - Developer Flight Deck"/>
+  <img src="./assets/header.gif" width="100%" alt="Mayara Celestino - Developer Flight Deck"/>
 </p>
 
 <br>
