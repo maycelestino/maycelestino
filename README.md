@@ -1,68 +1,34 @@
-# Mayara Celestino
+<h1 align="center">Mayara Celestino</h1>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  MAYARA CELESTINO                                           │
-│  Software Developer                                         │
-│                                                              │
-│  current_position  → Junior Developer @ CAVOK Tecnologia    │
-│  base              → Curitiba, PR                            │
-│  academic_route    → Análise e Desenvolvimento de Sistemas   │
-│  current_focus     → Backend • Full Stack • APIs • DevOps   │
-│  status            → building / learning / improving         │
-╰──────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  Software Developer • Python/Django • Full Stack • APIs • DevOps
+</p>
 
-## `whoami`
-
-Sou desenvolvedora de sistemas e estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**.
-
-Hoje atuo principalmente com desenvolvimento e manutenção de sistemas web, trabalhando com **Python, Django e PostgreSQL**, além de tecnologias de front-end e integrações.
-
-Minha trajetória em tecnologia também passou por projetos de backend, frontend, automação e web scraping. Gosto especialmente de entender uma regra de negócio, descobrir onde está o problema e transformar isso em uma solução que realmente funcione no dia a dia.
-
-Não tenho interesse em conhecer tecnologia apenas pela teoria. Grande parte do que estudo acaba virando projeto, teste ou alguma implementação prática por aqui.
+<p align="center">
+  Curitiba, PR · Desenvolvedora de Sistemas Júnior I @ CAVOK Tecnologia
+</p>
 
 ---
 
-## `current_environment`
+## about
 
-```yaml
-company: CAVOK Tecnologia
-role: Desenvolvedora de Sistemas Júnior I
+Desenvolvedora de sistemas e estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**.
 
-daily_stack:
-  backend:
-    - Python
-    - Django
+Atualmente trabalho no desenvolvimento e manutenção de sistemas web utilizando principalmente **Python, Django e PostgreSQL**, além de tecnologias de front-end e integrações externas.
 
-  database:
-    - PostgreSQL
+Gosto especialmente da parte de pegar uma regra de negócio, entender onde está o problema e transformar isso em uma solução que funcione de verdade no sistema.
 
-  frontend:
-    - HTML
-    - CSS
-    - JavaScript
-    - jQuery
-    - Bootstrap
-
-work:
-  - desenvolvimento e manutenção de sistemas
-  - criação de funcionalidades
-  - relatórios personalizados
-  - integrações externas
-  - correções e evolução de sistemas existentes
-```
+Minha trajetória em tecnologia também inclui experiências com backend, frontend, automação, web scraping e projetos acadêmicos que utilizo para explorar tecnologias além da minha rotina profissional.
 
 ---
 
-## `stack`
+## current stack
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Backend
+### backend
 
 `Python`  
 `Django`  
@@ -72,7 +38,7 @@ work:
 </td>
 <td width="33%" valign="top">
 
-### Frontend
+### frontend
 
 `JavaScript`  
 `React`  
@@ -84,7 +50,7 @@ work:
 </td>
 <td width="33%" valign="top">
 
-### Data & DevOps
+### data & devops
 
 `PostgreSQL`  
 `SQLite`  
@@ -100,200 +66,129 @@ work:
 
 ---
 
-# `selected_projects`
+## selected projects
 
-## ArenaPass
+### ArenaPass
 
-**Sistema full stack para gerenciamento seguro de usuários.**
+Sistema full stack para gerenciamento seguro de usuários.
 
-Projeto criado para aplicar na prática conceitos de APIs REST e segurança de aplicações web.
+`FastAPI` `React` `JWT` `RBAC` `SQLAlchemy` `bcrypt` `SQLite`
+
+O projeto possui autenticação com JWT, controle de acesso por perfis, gerenciamento de usuários e dashboard em React integrado à API.
+
+Perfis implementados:
 
 ```text
-FastAPI + React
-      │
-      ├── REST API
-      ├── JWT Authentication
-      ├── RBAC
-      ├── bcrypt
-      ├── SQLAlchemy
-      └── SQLite
+Administrator  → gerenciamento completo
+Operator       → consulta e edição
+Client         → acesso aos próprios dados
 ```
 
-Principais funcionalidades:
-
-- cadastro, consulta, edição e exclusão de usuários;
-- autenticação utilizando JWT;
-- senhas armazenadas com hash;
-- controle de acesso baseado em perfis;
-- perfis Administrador, Operador e Cliente;
-- dashboard React integrado à API;
-- proteção dos endpoints no backend;
-- documentação de OAuth 2.0 e análise de segurança.
-
-[Ver projeto →](https://github.com/maycelestino/arenapass)
+[→ abrir ArenaPass](https://github.com/maycelestino/arenapass)
 
 ---
 
-## FitTrack DevOps
+### FitTrack DevOps
 
-**API desenvolvida durante uma jornada prática de DevOps.**
+API desenvolvida para aplicar na prática um fluxo de desenvolvimento com automação e DevOps.
 
-O projeto começou como uma API simples em FastAPI e foi evoluindo durante diferentes etapas de integração e entrega.
+`FastAPI` `Pytest` `GitHub Actions` `Docker` `CI/CD`
 
 ```text
-CODE
-  │
-  ▼
-TESTS
-  │
-  ▼
-GITHUB ACTIONS
-  │
-  ├── Continuous Integration
-  ├── Continuous Delivery
-  │
-  ▼
-DOCKER
-  │
-  ▼
-ALERTS
+code
+  ↓
+automated tests
+  ↓
+continuous integration
+  ↓
+continuous delivery
+  ↓
+docker
+  ↓
+discord alerts
 ```
 
-O projeto inclui:
+O projeto inclui testes automatizados, pipelines no GitHub Actions, execução em container e alertas integrados ao Discord.
 
-- API REST com FastAPI;
-- testes automatizados com Pytest;
-- GitHub Actions;
-- Continuous Integration;
-- Continuous Delivery;
-- execução automática dos testes em Pull Requests;
-- Docker;
-- aplicação executada em container;
-- alertas automáticos enviados para Discord.
-
-[Ver projeto →](https://github.com/maycelestino/fittrack-devops)
+[→ abrir FitTrack DevOps](https://github.com/maycelestino/fittrack-devops)
 
 ---
 
-## MADC Comunicação Visual
+### MADC Comunicação Visual
 
-**Website institucional desenvolvido para uma empresa real.**
+Website institucional desenvolvido para uma empresa real, com foco em responsividade e uma navegação simples.
 
-Projeto desenvolvido com foco em uma solução simples e funcional, utilizando:
+`HTML` `CSS` `JavaScript`
 
-`HTML` • `CSS` • `JavaScript`
-
-O trabalho envolveu construção da interface, responsividade e publicação do site.
-
-[Visitar site →](https://madcdigital.com.br)
+[→ acessar o site](https://madcdigital.com.br)
 
 ---
 
-# `experience.log`
+## experience
 
 ```text
-2026 ─────► CAVOK TECNOLOGIA
-            Desenvolvedora de Sistemas Júnior I
-            Python • Django • PostgreSQL • Web
+2026 — now
+CAVOK Tecnologia
+Desenvolvedora de Sistemas Júnior I
 
-2025 ─────► HOMMA CAPITAL
-            Estagiária em Análise e Desenvolvimento de Software
-            Backend • Frontend • Web Scraping • Automação
-
-2020 ─────► TELEPERFORMANCE
-            Reclame Aqui / Mídias Sociais
-            Atendimento • KPIs • Reputação Digital
+Python · Django · PostgreSQL · HTML · CSS
+JavaScript · jQuery · Bootstrap
 ```
 
-Minha experiência anterior fora do desenvolvimento também acabou contribuindo para algo que valorizo bastante hoje: entender o problema pelo ponto de vista de quem realmente usa o sistema.
-
----
-
-# `academic_route`
+Desenvolvimento e manutenção de sistemas, criação de funcionalidades, relatórios personalizados, integrações externas e correções em funcionalidades existentes.
 
 ```text
-PUC-PR
-Análise e Desenvolvimento de Sistemas
-2024 ─────────────────────────────── 2026
-                                  ▲
-                              in progress
+2025 — 2026
+Homma Capital
+Estagiária em Análise e Desenvolvimento de Software
+
+Backend · Frontend · Web Scraping · Automação
 ```
 
-Também possuo formação técnica em **Eletrônica**, experiência que veio antes da transição definitiva para desenvolvimento de software.
+Participação em desenvolvimento de software, automações, web scraping e organização/documentação técnica.
+
+Minha experiência profissional anterior também passou por atendimento e gestão de reputação digital, algo que contribuiu bastante para a forma como hoje penso no usuário final de um sistema.
 
 ---
 
-# `currently_building`
+## academic route
 
-Alguns temas que fazem parte da minha evolução atual:
+**Análise e Desenvolvimento de Sistemas — PUC-PR**  
+2024 → 2026
 
-```text
-[■] Backend com Python
-[■] Django
-[■] APIs REST
-[■] React
-[■] PostgreSQL
-[■] Git / GitHub
-[■] Docker
-[■] CI/CD
-[■] Segurança de aplicações
-[□] Arquitetura de software
-[□] Cloud
-```
-
-Os itens em aberto não significam “não sei”; são áreas que quero aprofundar cada vez mais.
+Também possuo formação técnica em **Eletrônica**, área que fez parte da minha trajetória antes da transição para desenvolvimento de software.
 
 ---
 
-# `background_processes`
+## beyond work
 
-Além dos projetos principais, já desenvolvi trabalhos envolvendo:
+Algumas coisas que já desenvolvi ou explorei fora da rotina profissional:
 
-- sistemas acadêmicos em Python;
-- aplicações Java com Programação Orientada a Objetos;
-- aplicações React;
-- APIs com FastAPI;
-- websites responsivos;
-- automações;
-- web scraping;
-- integração com APIs;
-- projetos com ESP32 e sensores.
+`APIs REST` · `React` · `Java POO` · `Python` · `ESP32` · `Web Scraping` · `Automação` · `Docker` · `CI/CD`
+
+Hoje continuo aprofundando principalmente:
+
+**Backend • APIs • Full Stack • DevOps • Segurança de aplicações**
 
 ---
 
-# `communication`
+## contact
 
-```text
-Português   ██████████  Nativo
-Espanhol    ███████░░░  Intermediário
-Inglês      ████░░░░░░  Em desenvolvimento
-```
-
----
-
-# `contact`
-
-**LinkedIn**  
-[linkedin.com/in/mayaracelestino](https://linkedin.com/in/mayaracelestino)
-
-**GitHub**  
-[github.com/maycelestino](https://github.com/maycelestino)
+[LinkedIn](https://linkedin.com/in/mayaracelestino) ·
+[GitHub](https://github.com/maycelestino)
 
 ---
 
 ```text
-maycelestino@github
-──────────────────────────────────────────────────────
-
-$ git status
+maycelestino@github:~$ git status
 
 On branch career
 Your branch is up to date with 'origin/learning'.
 
 Changes not staged for stopping:
-    modified:   skills
-    modified:   experience
-    modified:   projects
+    modified: skills
+    modified: experience
+    modified: projects
 
 nothing to stop, keep building.
 ```
