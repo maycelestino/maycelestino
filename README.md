@@ -11,82 +11,38 @@
 <table>
 <tr>
 
-<td width="32%" align="center" valign="top">
-
-<img
-  src="https://github.com/maycelestino.png?size=220"
-  width="170"
-  alt="Mayara Celestino"
-/>
-
-### MAYARA CELESTINO
-
-<sub>SOFTWARE DEVELOPER</sub>
-
-<br><br>
-
-`CURITIBA / BR`
-
-<br>
-
-**CAVOK Tecnologia**  
-Junior Developer
-
-<br>
-
-**PUC-PR**  
-Análise e Desenvolvimento de Sistemas
-
-<br>
-
-[LinkedIn](https://linkedin.com/in/mayaracelestino)
-&nbsp;·&nbsp;
-[GitHub](https://github.com/maycelestino)
-
-<br><br>
-
-<sub>
-PYTHON · DJANGO · FULL STACK
-</sub>
-
-</td>
-
-<td width="68%" valign="top">
+<td width="25%" valign="top">
 
 <sub>01 / PROFILE</sub>
 
-# Who is Mayara?
+### BEYOND  
+### THE CODE.
 
-Sou desenvolvedora de sistemas com foco em aplicações web, APIs e soluções que precisam funcionar fora do editor.
+<sub>
+Software começa no código,  
+mas só faz sentido quando  
+resolve alguma coisa.
+</sub>
 
-Atualmente trabalho na **CAVOK Tecnologia**, atuando com desenvolvimento e manutenção de sistemas utilizando principalmente **Python, Django e PostgreSQL**, além de front-end, integrações, relatórios e evolução de funcionalidades.
+<br><br>
 
-O que mais gosto no desenvolvimento é a parte de entender o contexto por trás de uma demanda. Não apenas *“o que precisa ser programado?”*, mas **“qual problema estamos tentando resolver?”**.
+`CURIOSITY`  
+`CONTEXT`  
+`BUILD`
 
-Minha trajetória também passou por automação, web scraping, desenvolvimento frontend e experiência com atendimento e usuários — algo que hoje influencia bastante a forma como penso sistemas.
+</td>
 
-<br>
+<td width="75%" valign="top">
 
-### CURRENT SNAPSHOT
+## Gosto de entender antes de construir.
 
-```yaml
-role: Junior Developer
+Sou desenvolvedora de sistemas e estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**.
 
-main:
-  - Python
-  - Django
-  - PostgreSQL
+Minha rotina hoje envolve desenvolvimento e manutenção de sistemas web, mas o que mais me interessa acontece antes da implementação: **entender o contexto, a regra de negócio e o problema que precisa ser resolvido**.
 
-interests:
-  - APIs
-  - Full Stack
-  - DevOps
-  - Security
+Foi assim que fui construindo minha trajetória entre backend, frontend, integrações, automações e projetos próprios.
 
-currently:
-  studying: ADS @ PUC-PR
-  building: practical projects
-```
+Não gosto muito da ideia de estudar uma tecnologia só para poder colocá-la em uma lista. Normalmente prefiro aprender criando alguma coisa com ela — mesmo que comece pequena.
 
 </td>
 
@@ -98,33 +54,33 @@ currently:
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-<sub>CURRENT</sub>
+<sub>HOW I THINK</sub>
 
-### CAVOK
+### context → code
 
-Software Development
-
-</td>
-
-<td width="33%" align="center">
-
-<sub>ACADEMIC</sub>
-
-### PUC-PR
-
-ADS · 2024—2026
+Antes da implementação, tento entender **por que** aquilo precisa existir e como será usado.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-<sub>DIRECTION</sub>
+<sub>MY LAB</sub>
 
-### BUILD
+### build to learn
 
-Backend → Full Stack
+ArenaPass, FitTrack e outros projetos são onde testo tecnologias fora da rotina profissional.
+
+</td>
+
+<td width="33%" valign="top">
+
+<sub>NEXT</sub>
+
+### keep expanding
+
+Backend, Full Stack, segurança, automação e arquitetura continuam fazendo parte da rota.
 
 </td>
 
@@ -136,7 +92,7 @@ Backend → Full Stack
 ---
 
 <p align="center">
-  <sub>01 / WORK DESK</sub>
+  <sub>02 / WORK DESK</sub>
 </p>
 
 <h2 align="center">the tools behind the work</h2>
