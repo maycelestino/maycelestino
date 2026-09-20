@@ -1,185 +1,199 @@
-<h1 align="center">Mayara Celestino</h1>
-
 <p align="center">
-  Software Developer • Python/Django • Full Stack • APIs • DevOps
+  <img src="./assets/hero.svg" width="100%" alt="Mayara Celestino — Software Developer">
 </p>
 
 <p align="center">
-  Curitiba, PR · Desenvolvedora de Sistemas Júnior I @ CAVOK Tecnologia
+  <a href="https://linkedin.com/in/mayaracelestino">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/maycelestino">GitHub</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/maycelestino/arenapass">ArenaPass</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/maycelestino/fittrack-devops">FitTrack</a>
 </p>
 
----
+<br>
 
-## about
-
-Desenvolvedora de sistemas e estudante de **Análise e Desenvolvimento de Sistemas na PUC-PR**.
-
-Atualmente trabalho no desenvolvimento e manutenção de sistemas web utilizando principalmente **Python, Django e PostgreSQL**, além de tecnologias de front-end e integrações externas.
-
-Gosto especialmente da parte de pegar uma regra de negócio, entender onde está o problema e transformar isso em uma solução que funcione de verdade no sistema.
-
-Minha trajetória em tecnologia também inclui experiências com backend, frontend, automação, web scraping e projetos acadêmicos que utilizo para explorar tecnologias além da minha rotina profissional.
-
----
-
-## current stack
+01 / about
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="58%" valign="top">
 
-### backend
+Sou desenvolvedora de sistemas e estudante de Análise e Desenvolvimento de Sistemas na PUC-PR.
 
-`Python`  
-`Django`  
-`FastAPI`  
-`Java`
+Hoje atuo no desenvolvimento e manutenção de sistemas web, trabalhando principalmente com Python, Django e PostgreSQL, além de front-end, integrações e evolução de funcionalidades.
 
-</td>
-<td width="33%" valign="top">
+Gosto especialmente de pegar uma regra de negócio, entender onde está o problema e transformar isso em uma solução que realmente funcione no uso diário.
 
-### frontend
-
-`JavaScript`  
-`React`  
-`HTML`  
-`CSS`  
-`jQuery`  
-`Bootstrap`
+Minha trajetória em tecnologia também passou por backend, frontend, automação e web scraping — e boa parte do que estudo acaba virando projeto prático por aqui.
 
 </td>
-<td width="33%" valign="top">
+<td width="42%" valign="top">
 
-### data & devops
+current:
+  company: CAVOK Tecnologia
+  role: Junior Developer
 
-`PostgreSQL`  
-`SQLite`  
-`SQL`  
-`Git`  
-`GitHub Actions`  
-`Docker`  
-`CI/CD`
+focus:
+  - Backend
+  - Full Stack
+  - APIs
+  - DevOps
+
+study:
+  course: ADS
+  university: PUC-PR
+  status: in progress
 
 </td>
 </tr>
 </table>
 
----
+02 / toolkit
 
-## selected projects
+<p align="center">
+  <img src="./assets/stack.svg" width="92%" alt="Mayara's technology stack">
+</p>
 
-### ArenaPass
+03 / selected work
 
-Sistema full stack para gerenciamento seguro de usuários.
+ArenaPass
 
-`FastAPI` `React` `JWT` `RBAC` `SQLAlchemy` `bcrypt` `SQLite`
+<table>
+<tr>
+<td width="56%" valign="top">
 
-O projeto possui autenticação com JWT, controle de acesso por perfis, gerenciamento de usuários e dashboard em React integrado à API.
+<img src="https://raw.githubusercontent.com/maycelestino/arenapass/main/image.png" width="100%" alt="ArenaPass interface">
 
-Perfis implementados:
+</td>
+<td width="44%" valign="top">
 
-```text
-Administrator  → gerenciamento completo
-Operator       → consulta e edição
-Client         → acesso aos próprios dados
-```
+Full Stack user management platform
 
-[→ abrir ArenaPass](https://github.com/maycelestino/arenapass)
+FastAPI React JWT RBAC SQLAlchemy bcrypt
 
----
+Projeto criado para aplicar, na prática, conceitos de API REST, autenticação, autorização e segurança.
 
-### FitTrack DevOps
+Highlights
 
-API desenvolvida para aplicar na prática um fluxo de desenvolvimento com automação e DevOps.
+autenticação com JWT;
 
-`FastAPI` `Pytest` `GitHub Actions` `Docker` `CI/CD`
+controle de acesso por perfil;
 
-```text
-code
-  ↓
-automated tests
-  ↓
-continuous integration
-  ↓
-continuous delivery
-  ↓
-docker
-  ↓
-discord alerts
-```
+Administrador, Operador e Cliente;
 
-O projeto inclui testes automatizados, pipelines no GitHub Actions, execução em container e alertas integrados ao Discord.
+CRUD de usuários;
 
-[→ abrir FitTrack DevOps](https://github.com/maycelestino/fittrack-devops)
+dashboard React integrado à API;
 
----
+hash seguro de senhas.
 
-### MADC Comunicação Visual
+<br>
 
-Website institucional desenvolvido para uma empresa real, com foco em responsividade e uma navegação simples.
+Open repository →
 
-`HTML` `CSS` `JavaScript`
+</td>
+</tr>
+</table>
 
-[→ acessar o site](https://madcdigital.com.br)
+<br>
 
----
+FitTrack DevOps
 
-## experience
+<table>
+<tr>
+<td width="46%" valign="top">
 
-```text
+API + DevOps workflow
+
+FastAPI Pytest GitHub Actions Docker CI/CD
+
+Projeto desenvolvido para praticar um fluxo completo de desenvolvimento, testes, integração e entrega.
+
+A aplicação inclui testes automatizados, pipelines no GitHub Actions, Docker e alertas via Discord.
+
+<br>
+
+Open repository →
+
+</td>
+<td width="54%" valign="top">
+
+<img src="./assets/fittrack-card.svg" width="100%" alt="FitTrack DevOps pipeline">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+MADC Comunicação Visual
+
+Website institucional desenvolvido para uma empresa real, com foco em responsividade, clareza e navegação simples.
+
+HTML CSS JavaScript
+
+Visit website →
+
+04 / experience
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
 2026 — now
+
 CAVOK Tecnologia
 Desenvolvedora de Sistemas Júnior I
 
-Python · Django · PostgreSQL · HTML · CSS
-JavaScript · jQuery · Bootstrap
-```
+Python Django PostgreSQL
 
-Desenvolvimento e manutenção de sistemas, criação de funcionalidades, relatórios personalizados, integrações externas e correções em funcionalidades existentes.
+Desenvolvimento e manutenção de sistemas, novas funcionalidades, relatórios personalizados, integrações e correções.
 
-```text
+</td>
+<td width="33%" valign="top">
+
 2025 — 2026
+
 Homma Capital
 Estagiária em Análise e Desenvolvimento de Software
 
-Backend · Frontend · Web Scraping · Automação
-```
+Backend Frontend Web Scraping
 
-Participação em desenvolvimento de software, automações, web scraping e organização/documentação técnica.
+Participação em desenvolvimento, automações, web scraping e documentação técnica.
 
-Minha experiência profissional anterior também passou por atendimento e gestão de reputação digital, algo que contribuiu bastante para a forma como hoje penso no usuário final de um sistema.
+</td>
+<td width="33%" valign="top">
 
----
+2020 — 2023
 
-## academic route
+Teleperformance
+Reclame Aqui / Mídias Sociais
 
-**Análise e Desenvolvimento de Sistemas — PUC-PR**  
-2024 → 2026
+KPIs Customer Experience
 
-Também possuo formação técnica em **Eletrônica**, área que fez parte da minha trajetória antes da transição para desenvolvimento de software.
+Experiência que fortaleceu minha visão de usuário, comunicação e resolução de problemas.
 
----
+</td>
+</tr>
+</table>
 
-## beyond work
+05 / beyond the daily stack
 
-Algumas coisas que já desenvolvi ou explorei fora da rotina profissional:
+Além da rotina profissional, venho explorando projetos com React, FastAPI, Java, APIs REST, Docker, CI/CD, segurança de aplicações, automação e ESP32.
 
-`APIs REST` · `React` · `Java POO` · `Python` · `ESP32` · `Web Scraping` · `Automação` · `Docker` · `CI/CD`
+currently exploring
+├── backend architecture
+├── application security
+├── full stack development
+├── automation
+└── cloud fundamentals
 
-Hoje continuo aprofundando principalmente:
+06 / contact
 
-**Backend • APIs • Full Stack • DevOps • Segurança de aplicações**
+LinkedIn · GitHub
 
----
-
-## contact
-
-[LinkedIn](https://linkedin.com/in/mayaracelestino) ·
-[GitHub](https://github.com/maycelestino)
-
----
-
-```text
 maycelestino@github:~$ git status
 
 On branch career
@@ -191,4 +205,3 @@ Changes not staged for stopping:
     modified: projects
 
 nothing to stop, keep building.
-```
