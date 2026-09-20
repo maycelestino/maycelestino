@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7168"/>
+      <stop offset="50%" stop-color="#8B7CF6"/>
+      <stop offset="100%" stop-color="#42D9C8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="#0F141D"/>
+  <rect x="24" y="24" width="1152" height="382" rx="18" fill="#111722" stroke="#2D3745"/>
+
+  <text x="44" y="58" fill="#6F8093" font-family="Consolas, monospace" font-size="11" letter-spacing="3">ACTIVE TOOLKIT</text>
+  <rect x="44" y="72" width="170" height="5" rx="3" fill="url(#g)"/>
+
+  <text x="44" y="118" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">What I use to build</text>
+  <text x="44" y="145" fill="#96A3B3" font-family="Arial, Helvetica, sans-serif" font-size="15">Daily tools, current stack and practical technologies.</text>
+
+  <!-- backend -->
+  <rect x="44" y="188" width="340" height="178" rx="18" fill="#0D131D" stroke="#263241"/>
+  <text x="66" y="220" fill="#42D9C8" font-family="Consolas, monospace" font-size="12" letter-spacing="2">BACKEND</text>
+  <text x="66" y="258" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Python</text>
+  <text x="66" y="286" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Django</text>
+  <text x="66" y="314" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">FastAPI</text>
+  <text x="66" y="342" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Java</text>
+  <text x="220" y="258" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">REST APIs</text>
+  <text x="220" y="286" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">business rules</text>
+  <text x="220" y="314" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">data validation</text>
+  <text x="220" y="342" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">OOP projects</text>
+
+  <!-- frontend -->
+  <rect x="430" y="188" width="340" height="178" rx="18" fill="#0D131D" stroke="#263241"/>
+  <text x="452" y="220" fill="#8B7CF6" font-family="Consolas, monospace" font-size="12" letter-spacing="2">FRONTEND</text>
+  <text x="452" y="258" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">React</text>
+  <text x="452" y="286" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">JavaScript</text>
+  <text x="452" y="314" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">HTML</text>
+  <text x="452" y="342" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CSS / Bootstrap / jQuery</text>
+  <text x="645" y="258" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">components</text>
+  <text x="645" y="286" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">interaction</text>
+  <text x="645" y="314" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">structure</text>
+
+  <!-- data ops -->
+  <rect x="816" y="188" width="340" height="178" rx="18" fill="#0D131D" stroke="#263241"/>
+  <text x="838" y="220" fill="#FF7168" font-family="Consolas, monospace" font-size="12" letter-spacing="2">DATA / OPS</text>
+  <text x="838" y="258" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">PostgreSQL</text>
+  <text x="838" y="286" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">SQLite</text>
+  <text x="838" y="314" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Git / GitHub</text>
+  <text x="838" y="342" fill="#F5F1EB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Actions / Docker / CI-CD</text>
+  <text x="1010" y="258" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">main database</text>
+  <text x="1010" y="286" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">local projects</text>
+  <text x="1010" y="314" fill="#8EA0B2" font-family="Consolas, monospace" font-size="12">versioning</text>
+</svg>

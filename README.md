@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/hero-v3.svg"
+    src="./assets/hero.svg"
     width="100%"
     alt="Mayara Celestino — Software Developer"
   />
@@ -15,7 +15,7 @@
 
 <sub>01 / PROFILE</sub>
 
-### BEYOND  
+### BEYOND
 ### THE CODE.
 
 <sub>
@@ -92,70 +92,39 @@ Backend, Full Stack, segurança, automação e arquitetura continuam fazendo par
 ---
 
 <p align="center">
-  <sub>02 / WORK DESK</sub>
+  <img
+    src="./assets/sec-02-workdesk.svg"
+    width="100%"
+    alt="Work Desk"
+  />
 </p>
-
-<h2 align="center">the tools behind the work</h2>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,js,react,html,css,bootstrap,jquery,java,git,github,githubactions,docker,vscode&perline=9"
-    alt="Tech Stack"
+    src="./assets/workdesk-board.svg"
+    width="100%"
+    alt="Technology Stack"
   />
 </p>
 
 <br>
 
-<table>
-<tr>
+<sub>DAILY / PROFESSIONAL</sub>
 
-<td width="33%" valign="top">
+Hoje, minha stack profissional está concentrada principalmente em **Python, Django e PostgreSQL**, junto de tecnologias web utilizadas na evolução e manutenção dos sistemas em que trabalho.
 
-#### BACKEND
-
-`Python`  
-`Django`  
-`FastAPI`  
-`Java`  
-`REST APIs`
-
-</td>
-
-<td width="33%" valign="top">
-
-#### FRONTEND
-
-`JavaScript`  
-`React`  
-`HTML`  
-`CSS`  
-`jQuery`  
-`Bootstrap`
-
-</td>
-
-<td width="33%" valign="top">
-
-#### DATA / OPS
-
-`PostgreSQL`  
-`SQLite`  
-`Git`  
-`GitHub Actions`  
-`Docker`  
-`CI/CD`
-
-</td>
-
-</tr>
-</table>
+FastAPI, React, Docker e GitHub Actions também fazem parte dos projetos que venho construindo fora da rotina profissional.
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>02 / FEATURED CASE FILE</sub>
+  <img
+    src="./assets/sec-03-featured.svg"
+    width="100%"
+    alt="Featured Case File"
+  />
 </p>
 
 # ArenaPass
@@ -168,7 +137,7 @@ Backend, Full Stack, segurança, automação e arquitetura continuam fazendo par
 <img
   src="https://raw.githubusercontent.com/maycelestino/arenapass/main/image.png"
   width="100%"
-  alt="ArenaPass"
+  alt="ArenaPass interface"
 />
 
 </td>
@@ -182,7 +151,7 @@ Sistema Full Stack para gerenciamento seguro de usuários e diferentes níveis d
 `FASTAPI` `REACT` `JWT`  
 `RBAC` `SQLALCHEMY` `BCRYPT`
 
-O projeto trabalha autenticação e autorização de verdade no backend.
+O projeto trabalha autenticação e autorização diretamente no backend.
 
 **3 access levels**
 
@@ -212,14 +181,18 @@ Autenticação JWT, hash de senha, CRUD de usuários e uma interface que muda co
 
 > **CASE NOTE**
 >
-> O ArenaPass nasceu como projeto acadêmico, mas foi construído pensando além da entrega da faculdade: organização de API, segurança, separação entre frontend e backend e regras diferentes de autorização.
+> O ArenaPass nasceu como projeto acadêmico, mas foi desenvolvido pensando além da entrega da faculdade: organização da API, segurança, separação entre frontend e backend e diferentes regras de autorização.
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>03 / SYSTEM PIPELINE</sub>
+  <img
+    src="./assets/sec-04-pipeline.svg"
+    width="100%"
+    alt="System Pipeline"
+  />
 </p>
 
 # FitTrack DevOps
@@ -227,17 +200,17 @@ Autenticação JWT, hash de senha, CRUD de usuários e uma interface que muda co
 <table>
 <tr>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 ### FROM CODE TO FEEDBACK
 
-Uma API que virou laboratório para colocar DevOps em prática.
+Uma API que acabou se tornando um laboratório para colocar conceitos de DevOps em prática.
 
 `FASTAPI` `PYTEST`  
 `GITHUB ACTIONS` `DOCKER`  
 `CI/CD` `DISCORD`
 
-O projeto evoluiu em etapas, passando por testes, automação e containerização.
+O projeto começou como uma API e foi evoluindo em etapas, passando por testes automatizados, integração contínua, entrega contínua, containerização e alertas.
 
 <br>
 
@@ -245,39 +218,13 @@ O projeto evoluiu em etapas, passando por testes, automação e containerizaçã
 
 </td>
 
-<td width="58%" valign="top">
+<td width="60%" valign="middle">
 
-```text
-           FITTRACK / DELIVERY FLOW
-
-
-          ┌──────────────┐
-          │     CODE     │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │    PYTEST    │
-          └──────┬───────┘
-                 │
-                 ▼
-        ┌──────────────────┐
-        │  GITHUB ACTIONS  │
-        │                  │
-        │   CI        CD   │
-        └────────┬─────────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │    DOCKER    │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │   DISCORD    │
-          │    ALERT     │
-          └──────────────┘
-```
+<img
+  src="./assets/fittrack-board.svg"
+  width="100%"
+  alt="FitTrack DevOps Pipeline"
+/>
 
 </td>
 
@@ -286,16 +233,28 @@ O projeto evoluiu em etapas, passando por testes, automação e containerizaçã
 
 <br>
 
+<sub>PIPELINE NOTES</sub>
+
+`CODE → TEST → CI → CD → DOCKER → ALERT`
+
+A ideia do projeto foi experimentar cada etapa separadamente e depois conectar tudo em um fluxo automatizado.
+
+<br>
+
 ---
 
 <p align="center">
-  <sub>04 / CLIENT WORK</sub>
+  <img
+    src="./assets/sec-05-client.svg"
+    width="100%"
+    alt="Client Work"
+  />
 </p>
 
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="64%" valign="top">
 
 # MADC
 
@@ -303,31 +262,33 @@ O projeto evoluiu em etapas, passando por testes, automação e containerizaçã
 
 Website institucional desenvolvido para uma empresa real.
 
-O objetivo foi criar uma presença digital simples, responsiva e fácil de navegar, desenvolvida com tecnologias web fundamentais.
+O projeto nasceu da necessidade de criar uma presença digital simples, responsiva e fácil de navegar.
 
 `HTML` `CSS` `JAVASCRIPT`
 
-Além do desenvolvimento, o projeto também passou por publicação e configuração para uso real.
+Além da construção da interface, o projeto passou por publicação e configuração para utilização em produção.
 
 </td>
 
-<td width="35%" valign="middle" align="center">
+<td width="36%" valign="middle" align="center">
 
-### LIVE PROJECT
+<sub>LIVE PROJECT</sub>
+
+### ONLINE
 
 [**madcdigital.com.br →**](https://madcdigital.com.br)
 
 <br>
 
 ```text
-STATUS
-● ONLINE
-
 TYPE
 Institutional Website
 
-DELIVERY
-Production
+STACK
+HTML / CSS / JS
+
+STATUS
+● Production
 ```
 
 </td>
@@ -340,29 +301,32 @@ Production
 ---
 
 <p align="center">
-  <sub>05 / CAREER ARCHIVE</sub>
+  <img
+    src="./assets/sec-06-career.svg"
+    width="100%"
+    alt="Career Archive"
+  />
 </p>
-
-# from people to systems
 
 <table>
 
 <tr>
 
-<td width="20%" valign="top">
+<td width="18%" valign="top">
 
 ### 2026
+
 `NOW`
 
 </td>
 
-<td width="80%" valign="top">
+<td width="82%" valign="top">
 
 ### CAVOK TECNOLOGIA
 
 **Desenvolvedora de Sistemas Júnior I**
 
-Python · Django · PostgreSQL · HTML · CSS · JavaScript · jQuery · Bootstrap
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `jQuery` `Bootstrap`
 
 Desenvolvimento e manutenção de sistemas, criação de funcionalidades, relatórios personalizados, integrações externas e evolução de recursos existentes.
 
@@ -372,20 +336,21 @@ Desenvolvimento e manutenção de sistemas, criação de funcionalidades, relat�
 
 <tr>
 
-<td width="20%" valign="top">
+<td width="18%" valign="top">
 
 ### 2025
+
 `2026`
 
 </td>
 
-<td width="80%" valign="top">
+<td width="82%" valign="top">
 
 ### HOMMA CAPITAL
 
 **Estagiária em Análise e Desenvolvimento de Software**
 
-Backend · Frontend · Web Scraping · Automação
+`Backend` `Frontend` `Web Scraping` `Automação`
 
 Participação em desenvolvimento de software, automações, web scraping, documentação técnica e organização de código.
 
@@ -395,24 +360,25 @@ Participação em desenvolvimento de software, automações, web scraping, docum
 
 <tr>
 
-<td width="20%" valign="top">
+<td width="18%" valign="top">
 
 ### 2020
+
 `2023`
 
 </td>
 
-<td width="80%" valign="top">
+<td width="82%" valign="top">
 
 ### TELEPERFORMANCE
 
 **Reclame Aqui / Mídias Sociais**
 
-Customer Experience · KPIs · Reputação Digital
+`Customer Experience` `KPIs` `Reputação Digital`
 
 Antes de trabalhar diretamente com código, trabalhei bastante com pessoas, problemas e experiência do usuário.
 
-Essa parte da minha trajetória continua influenciando a forma como penso software hoje.
+Essa parte da minha trajetória continua influenciando a maneira como penso software hoje.
 
 </td>
 
@@ -422,15 +388,47 @@ Essa parte da minha trajetória continua influenciando a forma como penso softwa
 
 <br>
 
+### ACADEMIC ROUTE
+
+<table>
+<tr>
+
+<td width="62%" valign="top">
+
+**Análise e Desenvolvimento de Sistemas — PUC-PR**
+
+```text
+2024 ━━━━━━━━━━━━━━━━━━━ 2026
+                         ▲
+                     in progress
+```
+
+</td>
+
+<td width="38%" valign="top">
+
+**Formação Técnica**
+
+Eletrônica — Centro Paula Souza / ETEC
+
+Uma área que fez parte da minha trajetória antes da transição para desenvolvimento de software.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ---
 
 <p align="center">
-  <sub>06 / THE LAB</sub>
+  <img
+    src="./assets/sec-07-lab.svg"
+    width="100%"
+    alt="The Lab"
+  />
 </p>
-
-<h2 align="center">things I have been building along the way</h2>
-
-<br>
 
 <table>
 <tr>
@@ -472,46 +470,8 @@ Essa parte da minha trajetória continua influenciando a forma como penso softwa
 
 <br>
 
----
-
-<p align="center">
-  <sub>07 / SIGNAL</sub>
-</p>
-
-<h2 align="center">recent GitHub activity</h2>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maycelestino&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Mayara%20%2F%20Activity%20Signal"
-    alt="Mayara GitHub Activity"
-  />
-</p>
-
-<br>
-
----
-
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-<sub>ACADEMIC ROUTE</sub>
-
-### Análise e Desenvolvimento de Sistemas
-
-**PUC-PR**
-
-```text
-2024 ━━━━━━━━━━━━━━━━ 2026
-                      ▲
-                  in progress
-```
-
-Também tenho formação técnica em **Eletrônica**, uma área que fez parte da minha trajetória antes da transição para desenvolvimento de software.
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -519,17 +479,23 @@ Também tenho formação técnica em **Eletrônica**, uma área que fez parte da
 
 ### next checkpoints
 
-```text
-01  backend architecture
-02  application security
-03  full stack development
-04  automation
-05  cloud fundamentals
-```
+`Backend Architecture`  
+`Application Security`  
+`Full Stack Development`  
+`Automation`  
+`Cloud Fundamentals`
 
-Sem barra de porcentagem e sem inventar nível.
+</td>
 
-Só coisas que fazem parte da rota.
+<td width="50%" valign="top">
+
+<sub>HOW I LEARN</sub>
+
+### project first.
+
+Normalmente, quando quero entender melhor alguma tecnologia, tento encontrar uma forma de colocá-la em algum projeto.
+
+É assim que APIs, React, Docker, CI/CD e segurança acabaram entrando no meu GitHub.
 
 </td>
 
@@ -541,22 +507,106 @@ Só coisas que fazem parte da rota.
 ---
 
 <p align="center">
-  <sub>08 / CONTACT CHANNEL</sub>
+  <img
+    src="./assets/sec-08-signal.svg"
+    width="100%"
+    alt="GitHub Activity Signal"
+  />
 </p>
-
-<h2 align="center">find me somewhere else</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/mayaracelestino">
-  <img src="https://img.shields.io/badge/LINKEDIN-0f3d46?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-</a>
-
-<a href="https://github.com/maycelestino">
-  <img src="https://img.shields.io/badge/GITHUB-352b63?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maycelestino&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=a78bfa&area=true&area_color=134e4a&hide_border=true&custom_title=Mayara%20%2F%20Activity%20Signal"
+    alt="Mayara GitHub Activity"
+  />
 </p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<sub>BUILD</sub>
+
+### projects
+
+Transformando estudo em implementação.
+
+</td>
+
+<td width="33%" align="center">
+
+<sub>LEARN</sub>
+
+### continuously
+
+Sempre tem alguma coisa nova na fila.
+
+</td>
+
+<td width="33%" align="center">
+
+<sub>SHIP</sub>
+
+### make it real
+
+Código fica mais interessante quando sai do editor.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<p align="center">
+  <img
+    src="./assets/sec-09-contact.svg"
+    width="100%"
+    alt="Contact Channel"
+  />
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<sub>PROFESSIONAL NETWORK</sub>
+
+### LinkedIn
+
+Carreira, experiências e evolução profissional.
+
+<br>
+
+[**linkedin.com/in/mayaracelestino →**](https://linkedin.com/in/mayaracelestino)
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<sub>CODE / PROJECTS</sub>
+
+### GitHub
+
+Projetos, experimentos e tudo que estou construindo por aqui.
+
+<br>
+
+[**github.com/maycelestino →**](https://github.com/maycelestino)
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -580,12 +630,4 @@ nothing to stop, keep building.
   <sub>
     MAYARA CELESTINO / SOFTWARE DEVELOPMENT / CURITIBA — BR
   </sub>
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:352b63,50:0f3d46,100:07111f&section=footer"
-    alt=""
-  />
 </p>
